@@ -1,0 +1,4 @@
+# vscode configure folder
+.vscode/
+# output files
+*.o
